@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print("This programm worked very good and commited and pushed!")
     print("Git практика - Главная")
     api = "https://api-1.ru/"
+    api2 = "https://api-2.ru/"
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
